@@ -1,0 +1,6 @@
+{
+  "name": "ZARU ENTERPRISE - Agricultural Investment & Plan Platform",
+  "description": "Professional, secure agricultural co-investment and plan platform for Nigerian investors by ZARU ENTERPRISE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
